@@ -1,0 +1,28 @@
+{
+  "projectId": "aflpg",
+  "appName": "AFLPG",
+  "startUrl": "https://aflpg.com/",
+  "userAgentSuffix": "",
+  "allowedHosts": [
+    "aflpg.com"
+  ],
+  "externalLinkHosts": [],
+  "externalLinksInBrowser": true,
+  "versionGate": {
+    "latestVersion": "1.0.0",
+    "latestVersionCode": 1,
+    "minVersion": "",
+    "minVersionCode": 1,
+    "force": false,
+    "message": "A new version is available. Please update to continue.",
+    "updateUrl": "",
+    "downloadPath": "/dl/aflpg/aflpg-1-1.0.0.apk",
+    "sha256": "4b47f0efe60eff75deffe8666d8947d727a9956d7be5ec1392d1ebe76b0c7a67",
+    "size": 231493
+  },
+  "notice": {
+    "enabled": false,
+    "text": "",
+    "url": ""
+  }
+}
